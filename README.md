@@ -4,7 +4,7 @@
 
 <br/>
 
-<h2>💻 Software Engineer · 🌐 Full Stack · 🔐 Cybersecurity</h2>
+<h2>💻 Software Engineer · 🌐 Full Stack </h2>
 
 <p align="center">
 Desarrollo soluciones <strong>seguras</strong>, <strong>escalables</strong> y bien estructuradas.<br/>
@@ -29,7 +29,6 @@ Enfocado en backend, arquitectura y buenas prácticas.
 ## 👨‍💻 Perfil profesional
 
 - 🎓 Estudiante de **Ingeniería de Software**
-- 🔐 Enfoque en **ciberseguridad y arquitectura**
 - 🌐 Desarrollo **Full Stack**, con énfasis en backend
 - ⚙️ Diseño de **APIs REST**, autenticación y automatización
 - 🧠 Pensamiento analítico y orientación a calidad

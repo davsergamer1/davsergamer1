@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=900&color=00E676&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Harvey+Castellanos;Davsergamer+%F0%9F%9A%80;Ingenier%C3%ADa+de+Software;Full+Stack+Developer;Cybersecurity+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=900&color=00E676&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Harvey+Castellanos;Davsergamer+%F0%9F%9A%80;Ingenier%C3%ADa+de+Software;Full+Stack+Develope"/>
 
 <br/>
 

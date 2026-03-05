@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=900&color=00E676&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Harvey+Castellanos;Davsergamer+%F0%9F%9A%80;Ingenier%C3%ADa+de+Software;Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=900&color=00E676&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Harvey+Castellanos;Davsergamer+%F0%9F%9A%80;Software+Engineering;Full+Stack+Developer"/>
 
 <br/>
 
 <h2>💻 Software Engineer · 🌐 Full Stack </h2>
 
 <p align="center">
-Desarrollo soluciones <strong>seguras</strong>, <strong>escalables</strong> y bien estructuradas.<br/>
-Enfocado en backend, arquitectura y buenas prácticas.
+I build <strong>secure</strong>, <strong>scalable</strong>, and well-structured solutions.<br/>
+Focused on backend development, architecture, and best practices.
 </p>
 
 <br/>
@@ -26,32 +26,32 @@ Enfocado en backend, arquitectura y buenas prácticas.
 
 ---
 
-## 👨‍💻 Perfil profesional
+## 👨‍💻 Professional Profile
 
-- 🎓 Estudiante de **Ingeniería de Software**
-- 🌐 Desarrollo **Full Stack**, con énfasis en backend
-- ⚙️ Diseño de **APIs REST**, autenticación y automatización
-- 🧠 Pensamiento analítico y orientación a calidad
+- 🎓 **Software Engineering** student  
+- 🌐 **Full Stack** development with a focus on backend  
+- ⚙️ Design of **REST APIs**, authentication systems, and automation  
+- 🧠 Analytical thinking and quality-oriented development  
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Technology Stack
 
 <div align="center">
 
-| Categoría | Tecnologías |
+| Category | Technologies |
 |---------|------------|
-| **Lenguajes** | Python · JavaScript · TypeScript · Java · SQL |
+| **Languages** | Python · JavaScript · TypeScript · Java · SQL |
 | **Frontend** | HTML · CSS · React · Tailwind |
 | **Backend** | Node.js · NestJS · Express · Flask |
-| **Bases de datos** | MySQL · PostgreSQL · MongoDB |
-| **Herramientas** | Git · Linux · Docker · Postman |
+| **Databases** | MySQL · PostgreSQL · MongoDB |
+| **Tools** | Git · Linux · Docker · Postman |
 
 </div>
 
 ---
 
-## 📜 Certificaciones
+## 📜 Certifications
 
 <div align="center">
 
@@ -85,26 +85,26 @@ Enfocado en backend, arquitectura y buenas prácticas.
 
 ---
 
-## 🧠 Áreas de trabajo
+## 🧠 Work Areas
 
-- 🔹 Aplicaciones **Full Stack**
-- 🔹 Backend con **NestJS**
-- 🔹 Autenticación y control de acceso
-- 🔹 Automatización con Python
-- 🔹 Fundamentos de **pentesting**
+- 🔹 **Full Stack** applications  
+- 🔹 Backend development with **NestJS**  
+- 🔹 Authentication and access control  
+- 🔹 Automation with Python  
+- 🔹 **Pentesting** fundamentals  
 
 ---
 
-## 🌎 Contacto
+## 🌎 Contact
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/the-fenix-2a6882368">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin"/>
 </a>
 
 <a href="mailto:davsergamer@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contacto-D14836?style=flat-square&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail"/>
 </a>
 
 </div>
@@ -112,5 +112,5 @@ Enfocado en backend, arquitectura y buenas prácticas.
 ---
 
 <div align="center">
-<i>“Cuando admiras no es porque te guste, es porque reconoces grandeza.”</i>
+<i>"When you admire someone, it's not just because you like them — it's because you recognize greatness."</i>
 </div>

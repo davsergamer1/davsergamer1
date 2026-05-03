@@ -91,7 +91,9 @@ Focused on backend development, architecture, and best practices.
 - 🔹 Backend development with **NestJS**  
 - 🔹 Authentication and access control  
 - 🔹 Automation with Python  
-- 🔹 **Pentesting** fundamentals  
+- 🔹 **Pentesting** fundamentals
+
+- Currently working on this project as a freelancer: https://boisterous-donut-ae0dab.netlify.app/
 
 ---
 

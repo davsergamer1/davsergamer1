@@ -93,7 +93,7 @@ Focused on backend development, architecture, and best practices.
 - 🔹 Automation with Python  
 - 🔹 **Pentesting** fundamentals
 
-- Currently working on this project as a freelancer: https://boisterous-donut-ae0dab.netlify.app/
+- Currently working on this project as a freelancer: https://amrein-begleitung.ch 
 
 ---
 
